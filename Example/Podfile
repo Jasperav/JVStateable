@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVStateable_Tests' do
+  pod 'JVStateable', :path => '../'
+  
+  
+end

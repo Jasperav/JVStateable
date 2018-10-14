@@ -1,0 +1,16 @@
+PODS:
+  - JVStateable (0.1.0)
+
+DEPENDENCIES:
+  - JVStateable (from `../`)
+
+EXTERNAL SOURCES:
+  JVStateable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVStateable: 6648c5efd29dad89e2f33eb8d9c4094d7ac500d0
+
+PODFILE CHECKSUM: cd1b5e852339a9d0583d18393e78d19b05d97952
+
+COCOAPODS: 1.6.0.beta.1

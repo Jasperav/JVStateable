@@ -1,0 +1,6 @@
+framework module Pods_JVStateable_Tests {
+  umbrella header "Pods-JVStateable_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

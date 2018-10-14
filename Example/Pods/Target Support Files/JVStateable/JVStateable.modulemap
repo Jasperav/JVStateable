@@ -1,0 +1,6 @@
+framework module JVStateable {
+  umbrella header "JVStateable-umbrella.h"
+
+  export *
+  module * { export * }
+}
